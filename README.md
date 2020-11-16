@@ -1,2 +1,1 @@
-# Educational-materials-C-
-MIPT Lectures and practice
+Лекции и практика МФТИ
